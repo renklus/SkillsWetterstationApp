@@ -39,5 +39,6 @@ public class MyActivity extends AppCompatActivity {
         //bla2
         //This Time really 4a change
         //thisIsBrunch4b
+        //thisIsBranch4c
     }
 }
