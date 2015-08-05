@@ -36,10 +36,7 @@ public class MyActivity extends AppCompatActivity {
         //Just a change
         //Change for third branch
         //bla
-<<<<<<< HEAD
-        //4a Change
-=======
         //bla2
->>>>>>> origin/master
+        //4a Change
     }
 }
