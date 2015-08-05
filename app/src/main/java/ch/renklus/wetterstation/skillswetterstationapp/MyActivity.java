@@ -36,6 +36,10 @@ public class MyActivity extends AppCompatActivity {
         //Just a change
         //Change for third branch
         //bla
+<<<<<<< HEAD
         //thisIsBrunch4b
+=======
+        //bla2
+>>>>>>> origin/master
     }
 }
