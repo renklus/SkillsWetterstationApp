@@ -36,5 +36,6 @@ public class MyActivity extends AppCompatActivity {
         //Just a change
         //Change for third branch
         //bla
+        //thisIsBrunch4b
     }
 }
